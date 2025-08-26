@@ -1,1 +1,3 @@
 # Number-Guessing-Game
+
+A Number Guessing Game where the computer picks a secret number and you try to guess it. Before each round you choose the range (minimum and maximum) so you can make the game easy or really challenging, and you can limit how many guesses you get. After every guess the program tells you whether you’re too high or too low, and if you run out of turns it reveals the number. The game also remembers your best performance (fewest guesses) between runs, so you can try to beat your own record. It’s simple, fun, and a great little program for practicing input validation, random numbers, and basic file saving.
